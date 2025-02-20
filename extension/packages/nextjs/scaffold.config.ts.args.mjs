@@ -1,7 +1,7 @@
 export const chainName = 'sepolia';
 
-export const customChain = 'monad';
+export const customChain = 'monadTestnet';
 
 export const imports = [
-    'import { monad } from "./utils/scaffold-eth/otherChains";',
+    'import { monadTestnet } from "./utils/scaffold-eth/otherChains";',
 ];

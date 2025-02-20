@@ -1,4 +1,4 @@
-export const monad = {
+export const monadTestnet = {
   id: 10143,
   name: "Monad Testnet",
   nativeCurrency: { name: "Monad", symbol: "DMON", decimals: 18 },
