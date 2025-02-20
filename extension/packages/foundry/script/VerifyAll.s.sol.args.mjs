@@ -1,5 +1,4 @@
 export const verifyContractArgs = [
-    "--watch",
     "--verifier",
     "sourcify",
     "--verifier-url",
